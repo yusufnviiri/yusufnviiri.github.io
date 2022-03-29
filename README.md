@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# mobile-view
 
-You can use the [editor on GitHub](https://github.com/yusufnviiri/yusufnviiri.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This project is about creating a mobile view of my personal portifolio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Built with
 
-### Markdown
+-HTML
+-CSS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## setup to access the project
 
-```markdown
-Syntax highlighted code block
+> To get a local copy up and running follow these simple steps.
 
-# Header 1
-## Header 2
-### Header 3
+### Prerequisites
 
-- Bulleted
-- List
+-Github Account
+-code editor
+-Git
 
-1. Numbered
-2. List
+### setup to access the project
 
-**Bold** and _Italic_ and `Code` text
+(go to the terminal in the code editor and put the following git commands)
+-git init
+-git clone https://github.com/yusufnviiri/mobile-view.git
+-cd mobile-view
+-open index.html in the editor/browser to view the project contents
+-open style.css to see the CSS styles used in the project.
+-enjoy
 
-[Link](url) and ![Image](src)
-```
+## 👤Author
+### 👤 Yusuf Nviiri
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+-GitHub: [@yusufnviiri](https://github.com/yusufnviiri)
+-Twitter: [@YNviiri](https://twitter.com/YNviiri)
+-LinkedIn: [yusufnviiri]( https://www.linkedin.com/in/yusuf-nviiri-8b4146206/)
 
-### Jekyll Themes
+### 🤝 Contributing
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yusufnviiri/yusufnviiri.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Contributions,code reviews and feature requests are all welcome
 
-### Support or Contact
+### Show your support
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Give a ⭐️ if you liked this project
+
+### 📝 License $ copyright
+
+
+This project is [MIT licensed](LICENSE).

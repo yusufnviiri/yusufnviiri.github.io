@@ -9,6 +9,8 @@ This project is about creating a mobile view of my personal portifolio
 
 ## setup to access the project
 
+> Visit [yusufnviiri.github.io](https://yusufnviiri.github.io/)
+
 > To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
